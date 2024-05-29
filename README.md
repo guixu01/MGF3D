@@ -1,6 +1,6 @@
 # LA3D Example
 ## Data
-[LA3D](https://drive.google.com/file/d/1Yba_gv3pTu4gWV1ztCp5mR33JR2JiINf/view?usp=sharing) 
+[LA3D](https://drive.google.com/file/d/1CnZ4_VOeoSilOU9MkITg_a7rgXMDtzXc/view?usp=sharing) 
 ## Label
 The label files contain the following information. All values (numerical or strings) are separated via spaces, each row corresponds to one object. The 15 columns represent:
 
